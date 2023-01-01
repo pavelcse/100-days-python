@@ -31,4 +31,6 @@ def increase_emenies():
     global enemies
     enemies = 2
     print(f"enemies inside function: {enemies}")
-   
+
+# Global constante
+PI = 3.14159
